@@ -1,4 +1,4 @@
-﻿# Project Robot Car With Blynk (Synapse)
+﻿# Project Robot Car With Blynk (Synapse Group)
 Embedded Programming Final Project
  
 # Project Robot Car Details

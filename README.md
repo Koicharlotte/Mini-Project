@@ -1,7 +1,7 @@
 ﻿# Project Robot Car With Blynk (Synapse)
 Embedded Programming Final Project
  
-# Project Details
+# Project Robot Car Details
 This project is to control the car via WIFI on the Blynk mobile application.
 
 # The libraries required for this code.

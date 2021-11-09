@@ -1,12 +1,10 @@
-﻿# Project Robot Car Blynk
-This project is the part of final project of Embedded Programming, Burapha University
-
+﻿# Project Robot Car with Blynk 
+Embedded Programming Final Project
+ 
 # Project details
-This project use Blynk to control RC 2 Wheel drive car
+This project is to control the car via WIFI on the Blynk mobile application.
 
-# Component use in this project
-NodeMCU ESP8266 V3
-L298N
-2x DC motor
-4x AA battery
-Acrylic frame
+# The libraries required for this code.
+- BLYNK LIBRARY Download ได้ที่ https://github.com/blynkkk/blynk-library
+- 
+-
